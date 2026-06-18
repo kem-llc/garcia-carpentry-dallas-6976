@@ -1,0 +1,328 @@
+{
+  "business": {
+    "name": "Garcia Carpentry",
+    "shortName": "Garcia Carpentry",
+    "tagline": "Expert Custom Carpentry in Dallas, TX",
+    "niche": "Carpenter",
+    "phone": "(214) 736-6976",
+    "address": "10520 Plano Rd #100, Dallas, TX 75238",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri 8:00 AM - 6:00 PM, Sat 9:00 AM - 3:00 PM",
+    "ctaLabel": "Get a Free Quote",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Garcia Carpentry | Expert Custom Carpentry in Dallas, TX",
+    "description": "Garcia Carpentry offers premium custom carpentry services in Dallas, TX. From built-ins to trim, we deliver craftsmanship that transforms your home. Call (214) 736-6976."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas's Trusted Carpentry Experts",
+      "headline": "Custom Carpentry That Elevates Your Home",
+      "subheadline": "Precision-built cabinetry, trim, and woodwork tailored to your style. Serving Dallas with unmatched quality and care.",
+      "primaryCta": "Get a Free Quote",
+      "secondaryCta": "View Our Work"
+    },
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "500+",
+        "label": "Happy Clients"
+      },
+      {
+        "value": "5.0",
+        "label": "Average Rating"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Custom Built-Ins",
+        "title": "Transform Any Room with Built-In Shelving & Cabinetry",
+        "body": "Maximize your space with beautifully crafted built-ins. From home offices to entertainment centers, we design and build custom storage that blends seamlessly with your home's architecture.",
+        "bullets": [
+          "Tailored to your exact dimensions and style",
+          "Premium materials and finishes",
+          "Seamless integration with existing decor"
+        ],
+        "reverse": false,
+        "cardLabel": "Feature",
+        "cardTitle": "Bespoke Design",
+        "cardBody": "Every built-in is designed in collaboration with you, ensuring a perfect fit for your space and lifestyle."
+      },
+      {
+        "eyebrow": "Trim & Moldings",
+        "title": "Elevate Your Interiors with Expert Trim Work",
+        "body": "Add character and value to your home with precision-installed crown molding, baseboards, wainscoting, and more. Our meticulous attention to detail ensures crisp lines and flawless joints.",
+        "bullets": [
+          "Crown molding, baseboards, and chair rails",
+          "Custom wainscoting and paneling",
+          "Flawless installation with no gaps or misalignments"
+        ],
+        "reverse": true,
+        "cardLabel": "Service",
+        "cardTitle": "Precision Fit",
+        "cardBody": "Our trim work is measured and cut with laser accuracy, guaranteeing a perfect fit every time."
+      }
+    ],
+    "whyTitle": "Why Choose Garcia Carpentry?",
+    "whyChooseUs": [
+      {
+        "title": "Uncompromising Quality",
+        "description": "We use only the finest materials and time-tested techniques to deliver results that last for decades."
+      },
+      {
+        "title": "Personalized Service",
+        "description": "From initial consultation to final walk-through, we work closely with you to bring your vision to life."
+      },
+      {
+        "title": "Punctual & Clean",
+        "description": "We respect your time and home, completing projects on schedule and leaving your space spotless."
+      },
+      {
+        "title": "Licensed & Insured",
+        "description": "Fully licensed and insured for your peace of mind. Your property is protected throughout every project."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Garcia Carpentry transformed our living room with beautiful custom shelving. The craftsmanship is outstanding and they were a pleasure to work with.",
+        "author": "Linda M.",
+        "role": "Lakewood Homeowner"
+      },
+      {
+        "quote": "We hired them for crown molding throughout our house. The precision and attention to detail exceeded our expectations. Highly recommend!",
+        "author": "Tom R.",
+        "role": "Highland Park Resident"
+      },
+      {
+        "quote": "Professional, punctual, and talented. Our new built-in bookcase is the centerpiece of our home. Thank you, Garcia Carpentry!",
+        "author": "Karen S.",
+        "role": "Uptown Dallas Homeowner"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Transform Your Home?",
+      "subheadline": "Let's discuss your project. Call or click to schedule a free consultation.",
+      "primaryCta": "Get a Free Quote",
+      "secondaryCta": "Call (214) 736-6976"
+    }
+  },
+  "servicesPage": {
+    "intro": "At Garcia Carpentry, we offer a full range of custom carpentry services to enhance your Dallas home. From intricate trim work to custom built-ins, our skilled team delivers precision and artistry on every project."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Custom Built-Ins & Cabinetry",
+      "shortDescription": "Tailored shelving, entertainment centers, and storage solutions that maximize space and style.",
+      "longDescription": "Our custom built-ins are designed to fit your exact needs and complement your home's architecture. Whether you need a home library wall, a media center, or a mudroom cubby system, we craft each piece with precision and care. We work with a variety of woods and finishes to match your decor.",
+      "benefits": [
+        "Maximizes unused space efficiently",
+        "Adds significant home value",
+        "Customizable to any style or size",
+        "Built to last with premium materials"
+      ],
+      "process": [
+        {
+          "title": "Consultation & Design",
+          "description": "We meet on-site to discuss your needs, take measurements, and sketch a custom design that fits your space and vision."
+        },
+        {
+          "title": "Material Selection",
+          "description": "Choose from a curated selection of hardwoods, veneers, and finishes to achieve the perfect look."
+        },
+        {
+          "title": "Fabrication & Installation",
+          "description": "Our team crafts your built-in in our workshop and installs it with meticulous attention to detail, ensuring a seamless fit."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does it take to build and install custom built-ins?",
+          "answer": "Typical projects take 2-4 weeks from design to completion, depending on complexity and size."
+        },
+        {
+          "question": "Can you match existing trim and cabinetry?",
+          "answer": "Yes, we can match most existing styles and finishes to ensure a cohesive look throughout your home."
+        }
+      ],
+      "slug": "custom-built-ins-cabinetry"
+    },
+    {
+      "icon": "02",
+      "title": "Trim & Moldings",
+      "shortDescription": "Crown molding, baseboards, wainscoting, and more for a polished, refined look.",
+      "longDescription": "Trim work is the finishing touch that elevates any room. We specialize in installing crown molding, chair rails, baseboards, and custom wainscoting with laser precision. Our experienced carpenters ensure every joint is tight and every angle is perfect, creating a seamless, high-end appearance.",
+      "benefits": [
+        "Enhances architectural character",
+        "Increases home resale value",
+        "Hides imperfections at wall and floor junctions",
+        "Durable, long-lasting installation"
+      ],
+      "process": [
+        {
+          "title": "Design Consultation",
+          "description": "We review your space and recommend molding profiles and layouts that complement your home's style."
+        },
+        {
+          "title": "Precision Cutting",
+          "description": "All pieces are measured and cut off-site or in a dedicated workspace to minimize dust and disruption."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "We install each piece with careful alignment, secure fastening, and flawless caulking and painting prep."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you paint the trim after installation?",
+          "answer": "We install primed trim and can coordinate with your painter, or we can handle painting for an additional fee."
+        },
+        {
+          "question": "Can you install trim in a room with uneven walls?",
+          "answer": "Yes, we have techniques to accommodate uneven surfaces and ensure a clean, professional finish."
+        }
+      ],
+      "slug": "trim-moldings"
+    },
+    {
+      "icon": "03",
+      "title": "Custom Doors & Windows",
+      "shortDescription": "Beautiful, functional doors and window casings tailored to your home.",
+      "longDescription": "Upgrade your home's entryways and windows with custom doors and casings. We design and install interior and exterior doors, French doors, pocket doors, and custom window frames. Each piece is crafted to fit perfectly and operate smoothly, enhancing both aesthetics and energy efficiency.",
+      "benefits": [
+        "Improves curb appeal and interior flow",
+        "Better insulation and energy savings",
+        "Custom sizes for non-standard openings",
+        "High-quality hardware and finishes"
+      ],
+      "process": [
+        {
+          "title": "Measurement & Design",
+          "description": "We take precise measurements and help you select door styles, materials, and hardware that match your vision."
+        },
+        {
+          "title": "Custom Fabrication",
+          "description": "Doors are built to your specifications using solid wood or engineered materials for durability and beauty."
+        },
+        {
+          "title": "Professional Installation",
+          "description": "Our team installs the door with proper framing, leveling, and sealing to ensure smooth operation and longevity."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you match existing door styles?",
+          "description": "Yes, we can replicate historic or existing styles to maintain consistency throughout your home."
+        },
+        {
+          "question": "Do you install pre-hung doors?",
+          "a": "We install both pre-hung and slab doors, and can build custom jambs for non-standard wall thicknesses."
+        }
+      ],
+      "slug": "custom-doors-windows"
+    },
+    {
+      "icon": "04",
+      "title": "Deck & Porch Construction",
+      "shortDescription": "Custom outdoor wood structures for relaxation and entertainment.",
+      "longDescription": "Extend your living space outdoors with a custom deck or porch built by Garcia Carpentry. We design and construct durable, beautiful wood decks, screened porches, and pergolas using pressure-treated lumber, cedar, or composite materials. Every project is built to withstand Dallas weather while providing a welcoming outdoor retreat.",
+      "benefits": [
+        "Adds valuable outdoor living space",
+        "Increases property value",
+        "Customizable size, shape, and features",
+        "Built with weather-resistant materials"
+      ],
+      "process": [
+        {
+          "title": "Site Evaluation & Design",
+          "description": "We assess your yard, discuss your needs, and create a design that maximizes space and views."
+        },
+        {
+          "title": "Material Selection",
+          "description": "Choose from wood, composite, or PVC decking with railing options that suit your style and budget."
+        },
+        {
+          "title": "Construction & Finishing",
+          "description": "Our team builds the structure with proper footings, framing, and finishing, including staining or sealing as needed."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you handle permits?",
+          "description": "Yes, we obtain all necessary permits from the City of Dallas for your deck or porch project."
+        },
+        {
+          "question": "How long does a typical deck project take?",
+          "a": "Most decks are completed within 1-3 weeks, depending on size and complexity."
+        }
+      ],
+      "slug": "deck-porch-construction"
+    }
+  ],
+  "about": {
+    "headline": "Crafting Quality Woodwork in Dallas Since 2005",
+    "mission": "Our mission is to provide Dallas homeowners with exceptional carpentry that combines timeless craftsmanship with modern precision. We believe every home deserves beauty and functionality, and we deliver both with integrity and care.",
+    "story": [
+      "Garcia Carpentry was founded by master carpenter Carlos Garcia, who brought over a decade of experience from high-end custom home building to create a dedicated carpentry service in Dallas. What started as a one-man operation has grown into a trusted team of skilled artisans, all sharing a passion for wood and a commitment to excellence.",
+      "Over the years, we've had the privilege of transforming hundreds of homes across Dallas, from historic bungalows in Lakewood to modern estates in Highland Park. Every project, whether a simple trim installation or an elaborate custom library, receives the same meticulous attention to detail and personal touch. We take pride in our reputation for reliability, cleanliness, and superior workmanship."
+    ],
+    "highlight": {
+      "stat": "500+",
+      "label": "Projects Completed"
+    },
+    "coreValues": [
+      {
+        "title": "Craftsmanship",
+        "description": "We take pride in our work, using time-honored techniques and modern tools to achieve flawless results."
+      },
+      {
+        "title": "Integrity",
+        "description": "Honest communication, fair pricing, and keeping our promises are the foundation of our business."
+      },
+      {
+        "title": "Customer Focus",
+        "description": "Your satisfaction is our top priority. We listen, adapt, and go the extra mile to exceed your expectations."
+      },
+      {
+        "title": "Community",
+        "description": "We are proud to serve the Dallas community and support local suppliers and tradespeople whenever possible."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch",
+    "subheadline": "Ready to start your project? Call us or fill out the form below for a free consultation and estimate.",
+    "primaryCta": "Call (214) 736-6976",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Highland Park",
+      "University Park",
+      "Lakewood",
+      "Uptown",
+      "Oak Lawn",
+      "Preston Hollow",
+      "Park Cities"
+    ]
+  },
+  "social_proof": {
+    "rating": 5.0,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Carpenter",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2147366976",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
